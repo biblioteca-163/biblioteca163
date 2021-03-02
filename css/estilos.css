@@ -28,6 +28,9 @@
     .titulo-galeria {
         font-size: 1.5rem !important;
     }
+    .pie-catalogo {
+        font-size: .7rem !important
+    }
 }
 
 .parallax-container {
