@@ -21,6 +21,12 @@
     text-shadow: 1.5px 1.5px red;
 }
 
+@media(max-width:300px) {
+    .brand-logo {
+        font-size: .8rem !important;
+    }
+}
+
 .parallax-container {
     width: 100% !important;
 }
